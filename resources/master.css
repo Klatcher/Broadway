@@ -2,6 +2,9 @@ html {
   text-align: center;
   font-family: Helvetica;
 }
+h1  {
+  font-size: 70px;
+}
 h2  {
   font-size: 32px;
   font-weight: bold;
@@ -17,14 +20,14 @@ a  {
   color: white;
   font-size: 18px
 }
-h3.ny {
-  color: white;
-}
 footer {
   font-size: 11px;
   color: white;
   background-color: dimgray;
+  text-align: left; 
 }
-div.head {
-  background-image: image(resources/the-flatiron-building.png);
+.home, #ny {
+  color: white;
+  font-weight: bold;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
