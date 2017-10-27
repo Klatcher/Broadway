@@ -25,3 +25,6 @@ footer {
   color: white;
   background-color: dimgray;
 }
+div.head {
+  background-image: image(resources/the-flatiron-building.png);
+}
