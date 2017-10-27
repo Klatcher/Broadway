@@ -1,0 +1,27 @@
+html {
+  text-align: center;
+  font-family: Helvetica;
+}
+h2  {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3  {
+  font-size: 23px;
+  font-weight: bold;
+}
+p  {
+  font-size: 14px;
+}
+a  {
+  color: white;
+  font-size: 18px
+}
+h3.ny {
+  color: white;
+}
+footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
